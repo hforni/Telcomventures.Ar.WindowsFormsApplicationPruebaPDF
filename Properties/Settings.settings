@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplicationPruebaPDF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WindowsFormsApplicationPruebaPDF_WsGeneracionComprobantes_pdfgen_prod_WSGeneracionComprobantes" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://prod.pdfgen.antina.com.ar/WSGeneracionComprobantes.asmx</Value>
+    </Setting>
+    <Setting Name="WindowsFormsApplicationPruebaPDF_wsgeneracioncomprobantes85_WSGeneracionComprobantes" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://wsgeneracioncomprobantes.antina.com.ar/WSGeneracionComprobantes.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
